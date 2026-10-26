@@ -1,0 +1,10 @@
+{
+  "name": "jame-lms-sprint1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "JAME LMS Sprint 1 student portal frontend prototype",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "start": "python -m http.server 8000"
+  }
+}
